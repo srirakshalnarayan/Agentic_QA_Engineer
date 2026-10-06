@@ -16,23 +16,23 @@ The current workflow is:
 
      text
 Software Requirement
-        ↓
+        -
 Generate Test Cases
-        ↓
+        -
 Generate Edge Cases
-        ↓
+        -
 Validate Test Cases
-        ↓
+        -
 Select API / Browser Strategy
-        ↓
+        -
 Execute Tests
-        ↓
+        -
 Collect Evidence
-        ↓
+        -
 PASS / FAIL / ERROR / BLOCKED
-        ↓
+        -
 Investigate Failures
-        ↓
+        -
 Generate Bug Reports
-        ↓
+        -
 Generate QA Reports
